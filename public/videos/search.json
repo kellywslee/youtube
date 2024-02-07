@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "5_937A9sEIsBM-uWYWWyhs3Xnz8",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "CA",
+  "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "uBVbIpt-92cV2w8SAEfre6pGxKA",
+          "id": {
+              "kind": "youtube#playlist",
+              "playlistId": "PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI"
+          },
+          "snippet": {
+              "publishedAt": "2020-05-07T07:08:50Z",
+              "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+              "title": "TypeScript Tutorial",
+              "description": "In this tutorial series we'll learn all about TypeScript - a superset of the JavaScript language.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/2pZmKW9-I_k/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/2pZmKW9-I_k/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/2pZmKW9-I_k/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Net Ninja",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-05-07T07:08:50Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "TIBgmYoy_uRPeNvQqpoeOaQwrDQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "d56mG7DezGs"
+          },
+          "snippet": {
+              "publishedAt": "2022-05-23T13:00:18Z",
+              "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+              "title": "TypeScript Tutorial for Beginners",
+              "description": "TypeScript Tutorial for Beginners. Learn TypeScript to write better large-scale JavaScript apps. This tutorial helps you get started ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/d56mG7DezGs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/d56mG7DezGs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Programming with Mosh",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-05-23T13:00:18Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "4o8jvu-KFQ3-E9iqOMCmCKH7ewY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "zQnBQ4tB3ZA"
+          },
+          "snippet": {
+              "publishedAt": "2020-11-25T15:28:06Z",
+              "channelId": "UCsBjURrPoezykLs9EqgamOA",
+              "title": "TypeScript in 100 Seconds",
+              "description": "Learn the basics if TypeScript in 100 Seconds! If you love TS, upgrade to Fireship PRO for 40% off using code mbus5Kcj at ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/zQnBQ4tB3ZA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/zQnBQ4tB3ZA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/zQnBQ4tB3ZA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Fireship",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-11-25T15:28:06Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "EuvXh5OdHdMmT601q20ZH8w3Oxs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ahCwqrYpIuM"
+          },
+          "snippet": {
+              "publishedAt": "2018-11-29T19:13:07Z",
+              "channelId": "UCsBjURrPoezykLs9EqgamOA",
+              "title": "TypeScript - The Basics",
+              "description": "TypeScript has forever altered the lives of JavaScript developers. Learn why TS is so awesome and the basic concepts required to ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ahCwqrYpIuM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ahCwqrYpIuM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ahCwqrYpIuM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Fireship",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-11-29T19:13:07Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "fgB7-c0kjRwUkTa2jxJA_sQQyXU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "zM9UPcIyyhQ"
+          },
+          "snippet": {
+              "publishedAt": "2022-12-05T21:56:27Z",
+              "channelId": "UCswG6FSbgZjbWtdf_hMLaow",
+              "title": "TypeScript: Should you use Types or Interfaces?",
+              "description": "Become a TypeScript Wizard with Matt's upcoming TypeScript Course: https://www.totaltypescript.com/ Follow Matt on Twitter ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/zM9UPcIyyhQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/zM9UPcIyyhQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/zM9UPcIyyhQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Matt Pocock",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-12-05T21:56:27Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "D8SRE2SIrVnHAH5sfuJS9n8Q4n0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "30LWjhZzg50"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-10T16:03:31Z",
+              "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+              "title": "Learn TypeScript – Full Tutorial",
+              "description": "Learn how to program with TypeScript in this full course for beginners. TypeScript is a typed superset of JavaScript that compiles ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/30LWjhZzg50/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/30LWjhZzg50/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "freeCodeCamp.org",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-10T16:03:31Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "YO9mkw61LfXFjZqu_7XHsjJKypQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "iCs5C5wcYno"
+          },
+          "snippet": {
+              "publishedAt": "2022-09-21T15:34:15Z",
+              "channelId": "UCWI-ohtRu8eEeDj93hmUsUQ",
+              "title": "What is TypeScript!?👩‍💻 (in 30 Seconds) #programming #technology #software #code #javascript",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/iCs5C5wcYno/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/iCs5C5wcYno/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/iCs5C5wcYno/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Coding with Lewis",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-09-21T15:34:15Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "CKkO8ORsMwdCS1Y6-cW-5uXxO9Y",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "5ChkQKUzDCs"
+          },
+          "snippet": {
+              "publishedAt": "2023-09-07T17:47:46Z",
+              "channelId": "UCsBjURrPoezykLs9EqgamOA",
+              "title": "Big projects are ditching TypeScript… why?",
+              "description": "Why are some big open-source projects like Turbo and Svelte dropping TypeScript in favor of vanilla JavaScript? Learn about the ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/5ChkQKUzDCs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/5ChkQKUzDCs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/5ChkQKUzDCs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Fireship",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-09-07T17:47:46Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "dzf_u_I6vr_9cgbbUv7i_NBw3i0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "FN4n6O2JYjk"
+          },
+          "snippet": {
+              "publishedAt": "2024-02-04T23:00:10Z",
+              "channelId": "UCFfbugDwun_cTbxn0CeAq2Q",
+              "title": "Vuetify 3 TypeScript Tutorial Series - Part 2",
+              "description": "In this video, we create the Vuetify 3 application via Vue CLI. ▭▭▭▭▭▭ C H E C K O U T  ▭▭▭▭▭▭ Part 1 on ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/FN4n6O2JYjk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/FN4n6O2JYjk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/FN4n6O2JYjk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Habibi Coding",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-02-04T23:00:10Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "zN9Oh8DNzPALsziXtK78EWEYBVY",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCswG6FSbgZjbWtdf_hMLaow"
+          },
+          "snippet": {
+              "publishedAt": "2017-03-14T12:21:09Z",
+              "channelId": "UCswG6FSbgZjbWtdf_hMLaow",
+              "title": "Matt Pocock",
+              "description": "Become a TypeScript wizard with tips, tricks and tutorials. Plus, updates from the latest TypeScript releases (and other open ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/RbinzR4AEg_qhUggLwZxYTgAM5o_AcdELqz8eYTb0qLQkWEkWAhlBXRmfg-aTF7hqp3U9izu=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/RbinzR4AEg_qhUggLwZxYTgAM5o_AcdELqz8eYTb0qLQkWEkWAhlBXRmfg-aTF7hqp3U9izu=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/RbinzR4AEg_qhUggLwZxYTgAM5o_AcdELqz8eYTb0qLQkWEkWAhlBXRmfg-aTF7hqp3U9izu=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "Matt Pocock",
+              "liveBroadcastContent": "upcoming",
+              "publishTime": "2017-03-14T12:21:09Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "5BoatB0tDYV0RJtbqKCJl1W7tSM",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "gieEQFIfgYc"
+          },
+          "snippet": {
+              "publishedAt": "2023-01-27T14:00:20Z",
+              "channelId": "UCY38RvRIxYODO4penyxUwTg",
+              "title": "TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+              "description": "Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap This TypeScript Full Course for Beginners is ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/gieEQFIfgYc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/gieEQFIfgYc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Dave Gray",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-01-27T14:00:20Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "CE9EASSwkLTdRiYdpE9T8DcBMNM",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "QSIXYMIJkQg"
+          },
+          "snippet": {
+              "publishedAt": "2024-02-06T13:44:14Z",
+              "channelId": "UCswG6FSbgZjbWtdf_hMLaow",
+              "title": "8 TypeScript Tips To Expand Your Mind (and improve your code)",
+              "description": "00:00 Intro 00:33 ReactNode vs Element 01:26 using for Unit Tests 03:08 Aliasing any to TODO 03:47 Generic functions vs any ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/QSIXYMIJkQg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/QSIXYMIJkQg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/QSIXYMIJkQg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Matt Pocock",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-02-06T13:44:14Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Jr9DgmXH1Uu4cUIh82EsgofuF5o",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "BCg4U1FzODs"
+          },
+          "snippet": {
+              "publishedAt": "2021-08-18T13:13:38Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "TypeScript Crash Course",
+              "description": "Learn the basics of TypeScript in this beginner-friendly crash course Visit Our Sponsor: Stream https://getstream.io/traversy ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/BCg4U1FzODs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/BCg4U1FzODs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/BCg4U1FzODs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Traversy Media",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-08-18T13:13:38Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "BXV_1UYgEYe8qNqv04zXNrVikiw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "hHt3F5mL7Tc"
+          },
+          "snippet": {
+              "publishedAt": "2023-04-26T14:53:52Z",
+              "channelId": "UC-T8W79DN6PBnzomelvqJYw",
+              "title": "JavaScript Developers TRYING to Use TypeScript",
+              "description": "DISCORD** Join the Learn Build Teach Discord Server - https://discord.gg/vM2bagU **STAY IN TOUCH ** Newsletter ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/hHt3F5mL7Tc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/hHt3F5mL7Tc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/hHt3F5mL7Tc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "James Q Quick",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-04-26T14:53:52Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Ec2MKnvvk_Ff6LuNkuHBehFhfrA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "U6s2pdxebSo"
+          },
+          "snippet": {
+              "publishedAt": "2023-09-21T15:59:12Z",
+              "channelId": "UCDstQZHA9T8-ZP046R0KEXA",
+              "title": "TypeScript Origins: The Documentary",
+              "description": "TypeScript Origins: The Documentary is brought to you by OfferZen - the community-first developer jobs platform.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/U6s2pdxebSo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/U6s2pdxebSo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/U6s2pdxebSo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "OfferZen Origins",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-09-21T15:59:12Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "s9nnCfDmIFLgX8J4nt09jUAdJ70",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "5JqzCjg4YRU"
+          },
+          "snippet": {
+              "publishedAt": "2021-06-29T15:26:21Z",
+              "channelId": "UCsBjURrPoezykLs9EqgamOA",
+              "title": "TypeScript is Literal Magic",
+              "description": "TypeScript Tip! Merge union types into every possible combination using template literal types. #shorts #js #typescript Docs ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/5JqzCjg4YRU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/5JqzCjg4YRU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/5JqzCjg4YRU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Fireship",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-06-29T15:26:21Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "bETVqXByy7jl9hNWeu-qKgdC2zs",
+          "id": {
+              "kind": "youtube#playlist",
+              "playlistId": "PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK"
+          },
+          "snippet": {
+              "publishedAt": "2021-09-05T15:21:51Z",
+              "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+              "title": "React TypeScript Tutorial for Beginners",
+              "description": "In this React TypeScript for beginners series we will learn to use TypeScript with React by building a few components of varying ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/TiSGujM22OI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/TiSGujM22OI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/TiSGujM22OI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Codevolution",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-09-05T15:21:51Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "hnAFUsaVOsl7MemVW1UB3urITIA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ydkQlJhodio"
+          },
+          "snippet": {
+              "publishedAt": "2021-04-19T15:04:23Z",
+              "channelId": "UCsBjURrPoezykLs9EqgamOA",
+              "title": "How to use TypeScript with React... But should you?",
+              "description": "Learn how to setup React with TypeScript. Compare the pros and cons of using TypeScript in an React project. Learn more in the ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ydkQlJhodio/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ydkQlJhodio/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Fireship",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-04-19T15:04:23Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "7HZ4f72p4n1uU-V2vmngXCYEyxw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "EcCTIExsqmI"
+          },
+          "snippet": {
+              "publishedAt": "2023-12-26T17:00:09Z",
+              "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+              "title": "Learn TypeScript Generics In 13 Minutes",
+              "description": "TypeScript Simplified Course: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/EcCTIExsqmI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/EcCTIExsqmI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/EcCTIExsqmI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Web Dev Simplified",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-12-26T17:00:09Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "12AFx6ppHl10H88xT85G9NGrkCY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "BwuLxPH8IDs"
+          },
+          "snippet": {
+              "publishedAt": "2020-01-21T16:00:03Z",
+              "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+              "title": "TypeScript Course for Beginners - Learn TypeScript from Scratch!",
+              "description": "Free TypeScript Introduction for Beginners: Get Started with TypeScript, learn the Basics, its Features, Workflows and how to use it ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/BwuLxPH8IDs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/BwuLxPH8IDs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/BwuLxPH8IDs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Academind",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-01-21T16:00:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "IDrlwu59_zk9fVM2lQxEgzh1_sk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "TPACABQTHvM"
+          },
+          "snippet": {
+              "publishedAt": "2023-09-04T10:00:28Z",
+              "channelId": "UCf6AGqO98eGk11nfazociVQ",
+              "title": "TypeScript in React - COMPLETE Tutorial (Crash Course)",
+              "description": "Everything you need to know about using TypeScript in React... NEW React & Next.js Course: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/TPACABQTHvM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/TPACABQTHvM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "ByteGrad",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-09-04T10:00:28Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "-LKKyPZWRKjbNuv4NylHnVGRRKc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "zeCDuo74uzA"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-22T12:37:57Z",
+              "channelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ",
+              "title": "TypeScript Pro: A 4-Hour Deep Dive from Basics to Expert Level",
+              "description": "Welcome to the ultimate TypeScript experience! In this power-packed 4-hour course, we take you on a journey from TypeScript ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/zeCDuo74uzA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/zeCDuo74uzA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/zeCDuo74uzA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HuXn WebDev",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-22T12:37:57Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "OJXfxtS3snzA8GT8MH2kn7Q2RY0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "FJDVKeh7RJI"
+          },
+          "snippet": {
+              "publishedAt": "2022-01-25T14:48:33Z",
+              "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+              "title": "React &amp; TypeScript - Course for Beginners",
+              "description": "Learn how to build React apps using TypeScript. First, learn the basics of TypeScript. Then, learn how to integrate TypeScript in a ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/FJDVKeh7RJI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/FJDVKeh7RJI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "freeCodeCamp.org",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-01-25T14:48:33Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "RXu4x5URIyNZ3Xt-YnVwaUzUEgs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "WBPrJSw7yQA"
+          },
+          "snippet": {
+              "publishedAt": "2018-08-06T11:18:27Z",
+              "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+              "title": "Learn TypeScript in 50 Minutes - Tutorial for Beginners",
+              "description": "Courses - https://learn.codevolution.dev/ Support UPI - https://support.codevolution.dev/ Support PayPal ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/WBPrJSw7yQA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/WBPrJSw7yQA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/WBPrJSw7yQA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Codevolution",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-08-06T11:18:27Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "WRB0y4Ifl8YhO35k0JWGOiIfwTQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "W2BBskCCk8o"
+          },
+          "snippet": {
+              "publishedAt": "2023-10-24T14:28:40Z",
+              "channelId": "UC-T8W79DN6PBnzomelvqJYw",
+              "title": "My Problem with Using TypeScript in 2023",
+              "description": "TypeScript should be easier! **DISCORD** Join the Learn Build Teach Discord Server - https://discord.gg/vM2bagU **STAY IN ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/W2BBskCCk8o/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/W2BBskCCk8o/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/W2BBskCCk8o/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "James Q Quick",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-10-24T14:28:40Z"
+          }
+      }
+  ]
+}
